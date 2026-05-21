@@ -7,6 +7,7 @@ This project is developed strictly for **educational purposes, security auditing
 * The author (RetroHackLab) does not condone, encourage, or facilitate the use of this utility on lost or stolen devices.
 * You must only use this software on hardware that you legally own.
 * The end-user assumes full responsibility for any actions performed using this software.
+            <img width="341" height="341" alt="Image" src="https://github.com/user-attachments/assets/f08a4e50-1d1a-4292-a3e2-97a6b42d4d00" />
 
 ## 🔒 License & Closed Source Notice
 This repository is **NOT Open Source**. The Python source code is proprietary, private, and protected. 
